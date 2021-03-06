@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ChuckNorRisAPI\\ChuckNorRisAPI\\ChuckNorRisAPI.csproj",
-      "projectName": "ChuckNorRisAPI",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ChuckNorRisAPI\\ChuckNorRisAPI\\ChuckNorRisAPI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\repos\\ChuckNorrisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj",
+      "projectName": "ChuckNorrisAPI",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\repos\\ChuckNorrisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ChuckNorRisAPI\\ChuckNorRisAPI\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\repos\\ChuckNorrisAPI\\ChuckNorRisAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

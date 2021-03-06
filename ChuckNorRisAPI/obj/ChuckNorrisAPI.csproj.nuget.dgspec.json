@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ChuckNorRisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Desktop\\repos\\ChuckNorrisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ChuckNorRisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\repos\\ChuckNorrisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ChuckNorRisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\repos\\ChuckNorrisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj",
         "projectName": "ChuckNorrisAPI",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ChuckNorRisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\repos\\ChuckNorrisAPI\\ChuckNorRisAPI\\ChuckNorrisAPI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ChuckNorRisAPI\\ChuckNorRisAPI\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\repos\\ChuckNorrisAPI\\ChuckNorRisAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
